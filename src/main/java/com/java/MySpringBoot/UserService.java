@@ -5,7 +5,8 @@ import java.util.Arrays;
 import java.util.List;
 
 import org.springframework.stereotype.Service;
-//get list of all the users Updated im main Branch
+//get list of all the users updated in New Branch
+
 @Service
 public class UserService {
 

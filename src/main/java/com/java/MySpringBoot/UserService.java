@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 import org.springframework.stereotype.Service;
-//changes has been made for git more addition
+//get list of all the users
 @Service
 public class UserService {
 
